@@ -23,3 +23,6 @@ multiplyByThree(4)
 
 let multiplyByFour = multiply(4);
 multiplyByThree(5)
+
+let multiplyByFive = multiply(5)
+multiplyByFive(5)
